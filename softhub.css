@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.a-ul {
+    text-decoration: none;
+    color: black;
+}
+li {
+    margin-top: 20px;
+    display: inline-block;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    margin-left: 40px;
+}
+ul {
+    margin-left: 520px;
+    text-decoration: none;
+}
+.a-ul:hover {
+    text-decoration: none;
+    color: black;
+}
+.btn-for-contact {
+    border: none;
+    outline: none;
+    background-color: #f64e53;
+    color: white;
+    border-radius: 3px;
+    width: 120px;
+    height: 37px;
+    margin-left: 40px;
+}
+.softhub-p-class {
+    position: absolute;
+    top: 2.5%;
+    left: 12%;
+    font-family: monospace;
+    font-size: 21px;
+}
+.dev-team-for-quality {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.programmer-for-svg-file {
+    width: 500px;
+    position: absolute;
+    top: 26%;
+    left: 7%;
+}
+.btn-for-ratomchven {
+    outline: none;
+    border: none;
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    background-color: #f64e53;
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    color: white;
+}
+.btn-for-ratomchven:hover {
+    background-color: white;
+    color: #f64e53;
+    outline: none;
+}
+.class-for-coding {
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    position: absolute;
+    border: none;
+    outline: none;
+    background-color:  #f64e53    ;
+    width: 420px;
+    height: 35px;
+    color: white;
+    top: 130%;
+    left: 5%;
+}
+.class-rec-p {
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    position: absolute;
+    top: 105%;
+    color: black;
+    left: 43%;
+}
+.class-rec-p:hover {
+    color: #f64e53;
+    cursor: pointer;
+}
+
+.class-for-coding-2 {
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    top: 130%;
+    border: none;
+    outline: none;
+    background-color:  #f64e53    ;
+    width: 600px;
+    height: 35px;
+    color: white;
+    left: 50%;
+    position: absolute;
+}
+
+.class-for-coding-3 {
+    position: absolute;
+    top: 145%;
+    left: 5%;
+    border: none;
+    outline: none;
+    background-color:  #f64e53    ;
+    width: 400px;
+    height: 35px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    color: white;
+}
+.class-for-coding-4 {
+    position: absolute;
+}
